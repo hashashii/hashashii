@@ -9,7 +9,7 @@
 ---
 
 ### 🔭 About Me
-I am an IT Undergraduate from Sri Lanka, aspiring to be a Security-Minded Software Engineer. I build high-performance applications by integrating Web Development, Cybersecurity, and AI. /n
+I am an IT Undergraduate from Sri Lanka, aspiring to be a Security-Minded Software Engineer. I build high-performance applications by integrating Web Development, Cybersecurity, and AI. 
 
 ​🎓 Education: Pursuing a Bachelor's Degree in Information Technology.
 
