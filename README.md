@@ -60,15 +60,3 @@ I specialize in building secure, scalable web and desktop applications. I am pas
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashashii&theme=radical&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=hashashii&theme=radical&column=-1&row=1" height="150" alt="trophy graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashashii&theme=radical&hide_border=true" width="100%" alt="activity graph" />
-</div>
