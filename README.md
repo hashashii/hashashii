@@ -9,12 +9,12 @@
 ---
 
 ### 🔭 About Me
-I specialize in building secure, scalable web and desktop applications. I am passionate about **Secure Coding** and **System Penetration Testing**.
-
-- 💻 **Main Project:** [Library Management System](https://github.com/hashashii/Library-Management-System) (C#/.NET)
-- 🔒 **Interests:** Web Security, Network Auditing, and Backend Development.
-- 🌐 **Portfolio:** [shashika-portfolio.vercel.app](https://shashika-portfolio.vercel.app)
-- 📧 **Connect:** [LinkedIn](https://www.linkedin.com/in/shashika-lakshan-hapuarachchi-31775b332/)
+I am an IT Undergraduate from Sri Lanka, aspiring to be a Security-Minded Software Engineer. I build high-performance applications by integrating Web Development, Cybersecurity, and AI.
+​🎓 Education: Pursuing a Bachelor's Degree in Information Technology.
+​💻 Development: Proficient in PHP, JavaScript, C#, and .NET.
+​🛡️ Cybersecurity: Focused on Web Pentesting and Secure Coding (Parrot OS/Kali).
+​🤖 AI Tools: Leveraging ChatGPT and Copilot for smarter, secure coding.
+​🎯 Mission: Bridging the gap between Innovation and Security.
 
 ---
 
