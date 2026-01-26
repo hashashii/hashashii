@@ -11,15 +11,15 @@
 ### 🔭 About Me
 I am an IT Undergraduate from Sri Lanka, aspiring to be a Security-Minded Software Engineer. I build high-performance applications by integrating Web Development, Cybersecurity, and AI. 
 
-​🎓 Education: Pursuing a Bachelor's Degree in Information Technology.
+•​🎓 Education: Pursuing a Bachelor's Degree in Information Technology.
 
-​💻 Development: Proficient in PHP, JavaScript, C#, and .NET.
+•​💻 Development: Proficient in PHP, JavaScript, C#, and .NET.
 
-​🛡️ Cybersecurity: Focused on Web Pentesting and Secure Coding (Parrot OS/Kali).
+•​🛡️ Cybersecurity: Focused on Web Pentesting and Secure Coding (Parrot OS/Kali).
 
-​🤖 AI Tools: Leveraging ChatGPT and Copilot for smarter, secure coding.
+•​🤖 AI Tools: Leveraging ChatGPT and Copilot for smarter, secure coding.
 
-​🎯 Mission: Bridging the gap between Innovation and Security.
+•​🎯 Mission: Bridging the gap between Innovation and Security.
 
 ---
 
