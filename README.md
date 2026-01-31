@@ -2,9 +2,10 @@
 ### Full-Stack Developer & Cybersecurity Enthusiast 🇱🇰
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashashii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashashii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=hashashii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=hashashii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
 
 
 
