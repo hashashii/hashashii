@@ -1,10 +1,17 @@
 # Hi there! 👋 I'm Shashika Lakshan Hapuarachchi
 ### Full-Stack Developer & Cybersecurity Enthusiast 🇱🇰
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashashii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashashii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hashashii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashashii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+    </td>
+  </tr>
+</table>
+
 
 
 
